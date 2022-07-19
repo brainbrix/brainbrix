@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Other Project:
+
+BrainSportHero.com[https://www.brainsportheor.com]
+
+Denksport und Rätsel für Ihr tägliches Gehirnjogging[https://www.hirnsport.de]
