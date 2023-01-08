@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Other Project:
 
-BrainSportHero.com[https://www.brainsportheor.com]
+BrainSportHero.com[https://www.brainsporthero.com]
 
 Denksport und Rätsel für Ihr tägliches Gehirnjogging[https://www.hirnsport.de]
